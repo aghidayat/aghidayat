@@ -36,16 +36,7 @@ Here are some of my recent React Native projects available on the stores:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghidayat&show_icons=true&theme=tokyonight&count_private=true" alt="Adi's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghidayat&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📫 Connect with Me
 * 🌐 **Portfolio:** [aghidayat.github.io](https://aghidayat.github.io/)
 * 💼 **LinkedIn:** [linkedin.com/in/adigunawanhidayat](https://www.linkedin.com/in/adigunawanhidayat)
-* ✉️ **Email:** adi.gunawan.h@gmail.com *(atau ganti dengan email profesional Mas Adi)*
+* ✉️ **Email:** adigunawanhidayat29@gmail.com
