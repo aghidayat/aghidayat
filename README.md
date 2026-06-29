@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Adi Gunawan Hidayat</h1>
-<h3 align="center">Fullstack Developer with 6 years of experience in building robust web applications. Specializing in utilizing Node JS, Express JS, React Js, Next JS, and Tailwind to create efficient and responsive user interfaces. Passionate about Progressive Web Apps (PWAs), Git version control, Docker containerization, and AWS cloud services. Committed to delivering high-quality code and optimal user experiences.</h3>
+# Hi there, I'm Adi Gunawan Hidayat 👋
+### Senior React Native & AI-Backed Full-Stack Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghidayat&label=Profile%20views&color=0e75b6&style=flat" alt="aghidayat" /> </p>
+I am a Senior Engineer with **10+ years of experience** crafting high-performance, production-ready mobile and web applications. While I have a robust full-stack foundation, my core focus is building fluid cross-platform mobile apps that deliver native-like 60fps experiences.
 
-- 📫 How to reach me **adigunawanhidayat29@gmail.com**
+Lately, I’ve been heavily focused on bridging the gap between mobile architectures and **AI capabilities**, integrating LLMs and building autonomous agentic workflows into production SaaS platforms.
 
-- 📄 Know about my experiences [https://aghidayat.github.io/](https://aghidayat.github.io/)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 What I Do
+* **Mobile Architecture:** Crafting smooth, scalable cross-platform apps using React Native & Expo Ecosystem.
+* **AI Integration:** Implementing smart features using OpenAI, Claude, LangChain, and deploying local open-source models.
+* **Backend & Cloud:** Designing robust APIs and async workers (Node.js/Python) deployed securely on AWS.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Front-End** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) **EAS (Expo Application Services)** |
+| **AI Engineering** | **OpenAI API** • **Anthropic (Claude)** • **LangChain** • **Ollama / Hugging Face** |
+| **Back-End & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.dot.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **GitHub Actions (CI/CD)** |
+
+---
+
+### 📱 Recent Production Apps
+Here are some of my recent React Native projects available on the stores:
+
+* **Masjidbox One:** 
+  [Android (Play Store)](https://play.google.com/store/apps/details?id=com.masjidbox.one&hl=en) | [iOS (App Store)](https://apps.apple.com/ae/app/masjidbox-one/id6502348854)
+* **SampApp:** 
+  [Android (Play Store)](https://play.google.com/store/apps/details?id=com.sampapp.app) | [iOS (App Store)](https://apps.apple.com/id/app/sampapp/id6478738673?l=id)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/adigunawanhidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adigunawanhidayat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aghidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aghidayat" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aghidayat&show_icons=true&theme=tokyonight&count_private=true" alt="Adi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghidayat&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghidayat&show_icons=true&locale=en&layout=compact" alt="aghidayat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghidayat&show_icons=true&locale=en" alt="aghidayat" /></p>
+### 📫 Connect with Me
+* 🌐 **Portfolio:** [aghidayat.github.io](https://aghidayat.github.io/)
+* 💼 **LinkedIn:** [linkedin.com/in/adigunawanhidayat](https://www.linkedin.com/in/adigunawanhidayat)
+* ✉️ **Email:** adi.gunawan.h@gmail.com *(atau ganti dengan email profesional Mas Adi)*
